@@ -1,0 +1,47 @@
+[
+  {
+    "symbol": "BR",
+    "address": "0xff7d6a96ae471bbcd7713af9cb1feeb16cf56b41",
+    "decimals": 18,
+    "quote": "USDT",
+    "quoteAddress": "0x55d398326f99059fF775485246999027B3197955",
+    "pairAddress": null,
+    "dexId": "pancakeswap"
+  },
+  {
+    "symbol": "BR",
+    "address": "0xff7d6a96ae471bbcd7713af9cb1feeb16cf56b41",
+    "decimals": 18,
+    "quote": "USDT",
+    "quoteAddress": "0x55d398326f99059fF775485246999027B3197955",
+    "pairAddress": null,
+    "dexId": "uniswap"
+  },
+  {
+    "symbol": "AVAIL",
+    "address": "0x39702843a6733932ec7ce0dde404e5a6dbd8c989",
+    "decimals": 18,
+    "quote": "USDT",
+    "quoteAddress": "0x55d398326f99059fF775485246999027B3197955",
+    "pairAddress": null,
+    "dexId": "pancakeswap"
+  },
+  {
+    "symbol": "AVAIL",
+    "address": "0x39702843a6733932ec7ce0dde404e5a6dbd8c989",
+    "decimals": 18,
+    "quote": "USDT",
+    "quoteAddress": "0x55d398326f99059fF775485246999027B3197955",
+    "pairAddress": null,
+    "dexId": "1inch"
+  },
+  {
+    "symbol": "AVAIL",
+    "address": "0x39702843a6733932ec7ce0dde404e5a6dbd8c989",
+    "decimals": 18,
+    "quote": "USDT",
+    "quoteAddress": "0x55d398326f99059fF775485246999027B3197955",
+    "pairAddress": null,
+    "dexId": "uniswap"
+  }
+]
